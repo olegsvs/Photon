@@ -8,7 +8,7 @@
 ·  DB – Realm
 ·  Network – Retrofit 2, Moshi
 ·  Navigation – Flow
-·  Crash Reports/ Analytics – Firbase
+·  Crash Reports/ Analytics – Firebase
 ·  Image load: Glade
 ·  RxJava2
 ````
